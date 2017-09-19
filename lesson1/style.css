@@ -1,0 +1,10 @@
+body {
+  font-family: Arial;
+  width:70%;
+  margin:0 auto;
+}
+
+
+header, .personalstatement {
+  text-align: center;
+}
