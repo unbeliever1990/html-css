@@ -1,0 +1,38 @@
+body {
+  font-family: Arial;
+  width:70%;
+  margin:0 auto;
+}
+
+
+header, .personalstatement {
+  text-align: center;
+}
+
+.flex-container {
+  display: flex;
+  width: 100%;
+}
+
+.flex-item {
+  width: 20%;
+}
+
+.flex-item ul{
+  margin: 0;
+}
+
+.education table {
+  border-spacing:10px;
+}
+
+.employmenthistory table td {
+  padding-bottom: 20px;
+
+}
+
+@media all and (max-width:900px) {
+  header h1 {
+    background-color: orange;
+  }
+}
