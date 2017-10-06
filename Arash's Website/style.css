@@ -275,7 +275,7 @@ li > a:only-child:after { content: ''; }
 }
 
 .flex2-item:last-child {
-  background: url(images/tech.jpg) no-repeat;
+  background: url(images/Tech.jpg) no-repeat;
   background-size: cover;
 }
 .flex2-item:last-child p:first-child {
